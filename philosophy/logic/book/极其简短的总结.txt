@@ -15,3 +15,6 @@ recursive defination
 
 Logical positivism
 LP says any untestable statement is without meaning(But LP itself is untestable 尴尬)
+
+Pragmatism（If the truth or falsity of a statement could make no practical difference to 
+anyone, then it has no meaning）
