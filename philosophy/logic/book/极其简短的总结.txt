@@ -18,3 +18,20 @@ LP says any untestable statement is without meaning(But LP itself is untestable 
 
 Pragmatism（If the truth or falsity of a statement could make no practical difference to 
 anyone, then it has no meaning）
+
+analytic statement = logically necessary truth
+synthetic statement = contingent
+
+posteriori = empirical
+priori = rational
+for example
+（
+A posteriori: “Some bachelors are happy.” 
+A priori: “All bachelors are unmarried.”
+）
+
+Most of our knowledge in math and logic is analytic a priori. Most of our 
+everyday and scientific knowledge about the world is synthetic a posteriori.
+
+
+self-contradictory to deny 假设为错，会出现矛盾
