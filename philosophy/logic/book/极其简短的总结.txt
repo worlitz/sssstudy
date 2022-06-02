@@ -35,3 +35,18 @@ everyday and scientific knowledge about the world is synthetic a posteriori.
 
 
 self-contradictory to deny 假设为错，会出现矛盾
+
+fallacy
+informal fallacy
+
+pro-con：
+A的优势是啥
+A的缺点是啥
+优势大于缺点
+所以A
+
+错误形式：
+A的优点是啥
+所以A
+
+ complex question这招阴
